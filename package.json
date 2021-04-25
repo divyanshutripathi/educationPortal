@@ -1,0 +1,22 @@
+{
+	"name": "education_portal",
+	"version": "1.0.0",
+	"description": "demo project",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"cross-env": "^7.0.3",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^5.12.5"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.7"
+	}
+}
